@@ -1,2 +1,2 @@
 # E-commerce
-spring boot web services and Angular
+spring boot web services with Frontend Angular
